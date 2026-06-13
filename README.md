@@ -1,16 +1,30 @@
-## Hi there 👋
+# 🌷 hi, i'm natalie
 
-<!--
-**NatalieAzimi/NatalieAzimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm from houston, tx, and i'm learning to turn ideas into code — one small step at a time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 about me
+
+- 🎮 previously interned at **tech guides blog** (game development)
+- 📊 aspiring software developer + data analyst
+- 🧁 i bake when i need to think
+- ✂️ i do arts & crafts when i need to make something with my hands
+
+---
+
+## 📚 currently building comfort with
+
+html · css · python · sql · java · c++ · javascript · c# · git · github
+
+---
+
+## 🕯️ little joys
+
+baking · painting · paper crafts · cozy games · making things that feel like me · hiking
+
+---
+
+## 📫 find me
+
+[linkedin](https://www.linkedin.com/in/natalie-azimishooshtari/)
