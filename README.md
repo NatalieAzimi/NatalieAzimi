@@ -13,7 +13,7 @@ i'm from houston, tx, and i'm learning to turn ideas into code — one small ste
 
 ---
 
-## 📚 currently building comfort with
+## 📚 tech stack
 
 html · css · python · sql · java · c++ · javascript · c# · git · github
 
@@ -24,7 +24,3 @@ html · css · python · sql · java · c++ · javascript · c# · git · github
 baking · painting · paper crafts · cozy games · making things that feel like me · hiking
 
 ---
-
-## 📫 find me
-
-[linkedin](https://www.linkedin.com/in/natalie-azimishooshtari/)
