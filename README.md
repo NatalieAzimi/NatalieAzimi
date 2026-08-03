@@ -1,6 +1,6 @@
 # 🌷 hi, i'm natalie
 
-i'm from houston, tx, and i'm learning to turn ideas into code — one small step at a time.
+i'm from houston, tx, and i'm learning to turn ideas into code, one small step at a time.
 
 ---
 
